@@ -11,7 +11,7 @@ Attack = 1 to 100 ms
 Release = 1ms to 3s  
 Makeup Gain = -30 to 30 dB  
 
-Defaults are typical for a classical music starting point: 1.1:1 with -30 threshold. Attack and Release should be dialed to taste. For transparent parallel use, suggested settings are 2 or 2.5:1 at -50 dB threshold, 1ms attack, release 250-350ms (up to 500ms for a capella music), makeup gain adjust to taste. 
+Defaults are typical for a classical music starting point: 1.1:1 with -30 threshold. Attack and Release should be dialed to taste. For transparent parallel use (on its own compressor bus), suggested settings are 2 or 2.5:1 at -50 dB threshold, 1ms attack, release 250-350ms (up to 500ms for a capella music), makeup gain adjust to taste. 
 
 ### Audio Demos
 
