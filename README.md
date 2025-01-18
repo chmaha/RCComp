@@ -1,5 +1,6 @@
 # RCComp ("ReaClassical Compressor")
 A compressor suitable for classical music. Available as LV2 and CLAP by default (with optional VST3, VST2 and LADSPA).
+## Update: I do not plan to continue work on this project. Instead, please use the more up-to-date JSFX Compressor I created that is included with a ReaClassical install...
 
 ![image](https://user-images.githubusercontent.com/120390802/211630373-9e13b6e7-6de0-4898-9194-6fb5f54faabd.png)
 
